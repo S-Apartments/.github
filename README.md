@@ -1,6 +1,6 @@
 # 🏠 RentalEase - Modern Property Management Solution
 
-![RentalEase Logo](public/logo.png)
+![RentalEase Logo](logo.png)
 
 RentalEase is a comprehensive property management platform designed to simplify the rental process for both property owners and tenants. Streamline your property management tasks with our intuitive and feature-rich solution.
 
